@@ -1,0 +1,12 @@
+{
+  "name": "todoapp",
+  "version": "0.1.0",
+  "description": "A MEAN stack Todo App",
+  "private": true,
+  "dependencies": {
+    "jquery": "^3.3.0",
+    "bootstrap": "^4.0.0",
+    "angular": "^1.6.8",
+    "angular-route": "^1.6.8"
+  }
+}
